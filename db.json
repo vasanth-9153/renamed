@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "scanInterval":10,
+      "syncInterval":20,
+      "cooldown":60
+    }
+  ]
+  
+}
